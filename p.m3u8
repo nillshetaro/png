@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
+http://103.217.221.64:80/snehjiotv/snehjioo.php?c=Sony_Pal&q=800
