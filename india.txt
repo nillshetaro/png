@@ -1,0 +1,89 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&FLIX HD" tvg-logo="" group-title="[INDIA]",&FLIX HD
+http://103.131.212.138:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&PICTURES HD" tvg-logo="" group-title="[INDIA]",&PICTURES HD
+http://103.131.212.138:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&PRIVE HD" tvg-logo="" group-title="[INDIA]",&PRIVE HD
+http://103.131.212.138:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="[INDIA]",ANIMAL PLANET
+http://103.131.212.138:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="[INDIA]",ANIMAL PLANET HD
+http://103.131.212.138:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD" tvg-logo="" group-title="[INDIA]",BBC WORLD
+http://103.131.212.138:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTL" tvg-logo="" group-title="[INDIA]",CNN INTL
+http://103.131.212.138:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="[INDIA]",COLORS HD
+http://103.131.212.138:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY HD" tvg-logo="" group-title="[INDIA]",COLORS INFINITY HD
+http://103.131.212.138:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL " tvg-logo="" group-title="[INDIA]",COMEDY CENTRAL 
+http://103.131.212.138:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SPORTS" tvg-logo="" group-title="[INDIA]",DD SPORTS
+http://103.131.212.138:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="" group-title="[INDIA]",DISCOVERY
+http://103.131.212.138:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="[INDIA]",DISCOVERY SCIENCE
+http://103.131.212.138:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="[INDIA]",DISCOVERY TURBO
+http://103.131.212.138:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT " tvg-logo="" group-title="[INDIA]",EUROSPORT 
+http://103.131.212.138:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORTS HD" tvg-logo="" group-title="[INDIA]",EUROSPORTS HD
+http://103.131.212.138:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY TV18" tvg-logo="" group-title="[INDIA]",HISTORY TV18
+http://103.131.212.138:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="" group-title="[INDIA]",INVESTIGATION DISCOVERY
+http://103.131.212.138:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX HD" tvg-logo="" group-title="[INDIA]",MAX HD
+http://103.131.212.138:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN+ HD" tvg-logo="" group-title="[INDIA]",MN+ HD
+http://103.131.212.138:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX HD" tvg-logo="" group-title="[INDIA]",MNX HD
+http://103.131.212.138:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIES NOW" tvg-logo="" group-title="[INDIA]",MOVIES NOW
+http://103.131.212.138:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National G HD-Rs10" tvg-logo="" group-title="[INDIA]",National G HD-Rs10
+http://103.131.212.138:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild HD" tvg-logo="" group-title="[INDIA]",NAT GEO Wild HD
+http://103.131.212.138:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK HD+" tvg-logo="" group-title="[INDIA]",NICK HD+
+http://103.131.212.138:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PIX HD" tvg-logo="" group-title="[INDIA]",PIX HD
+http://103.131.212.138:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROMEDY NOW" tvg-logo="" group-title="[INDIA]",ROMEDY NOW
+http://103.131.212.138:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET HD" tvg-logo="" group-title="[INDIA]",SET HD
+http://103.131.212.138:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIX HD" tvg-logo="" group-title="[INDIA]",SIX HD
+http://103.131.212.138:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY BBC EARHD" tvg-logo="" group-title="[INDIA]",SONY BBC EARHD
+http://103.131.212.138:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="[INDIA]",SONY TEN 1 HD
+http://103.131.212.138:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="[INDIA]",SONY TEN 2 HD
+http://103.131.212.138:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOV HD" tvg-logo="" group-title="[INDIA]",STAR MOV HD
+http://103.131.212.138:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="[INDIA]",STAR PLUS HD
+http://103.131.212.138:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR S HIN 1 HD" tvg-logo="" group-title="[INDIA]",STAR S HIN 1 HD
+http://103.131.212.138:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPO 1 HD" tvg-logo="" group-title="[INDIA]",STAR SPO 1 HD
+http://103.131.212.138:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPO 2 HD" tvg-logo="" group-title="[INDIA]",STAR SPO 2 HD
+http://103.131.212.138:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD" tvg-logo="" group-title="[INDIA]",STAR WORLD HD
+http://103.131.212.138:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARMOV S HD" tvg-logo="" group-title="[INDIA]",STARMOV S HD
+http://103.131.212.138:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo="" group-title="[INDIA]",TLC HD
+http://103.131.212.138:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="" group-title="[INDIA]",UTV ACTION
+http://103.131.212.138:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES" tvg-logo="" group-title="[INDIA]",UTV MOVIES
+http://103.131.212.138:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="[INDIA]",ZEE CAFE HD
+http://103.131.212.138:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="" group-title="[INDIA]",ZEE TV HD
+http://103.131.212.138:8000/play/a01h/index.m3u8
