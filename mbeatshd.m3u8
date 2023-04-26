@@ -2,4 +2,4 @@
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
 #EXTINF:1.0,
-http://branchezvousiptv.net:80/play/live.php?mac=00:1a:79:55:51:C4&stream=156031&extension=ts&play_token=BIxCOAyA1v
+http://branchezvousiptv.net:80/play/live.php?mac=00:1a:79:55:51:C4&stream=156031&extension=m3u8&play_token=BIxCOAyA1v
