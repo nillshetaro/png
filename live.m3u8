@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:423678674 #EXT-X-VERSION:3
+#EXT-X-KEY:METHOD=AES-128,URI="key.php?key=13a8b597-5a5d-4bc4-84dc-5bebc13e5ffa_0_1694714637.key",IV=0x08D551C2CD4BA06D090C250579CCDE16
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714690.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714694.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714698.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714702.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714706.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714710.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714714.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714718.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714722.ts
+#EXTINF:4.000,
+https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1694714726.ts
